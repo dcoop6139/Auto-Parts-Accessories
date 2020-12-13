@@ -31,7 +31,7 @@ sections:
         content: >-
           Diverse collection of accessories are available according to the
           customer day-to-day essentials.
-      - title: St
+      - title: Studio
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at

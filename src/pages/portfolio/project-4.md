@@ -2,7 +2,7 @@
 title: Project Title 4
 subtitle: Optional Project Subtitle
 date: '2019-02-26'
-thumb_image: images/adv-motorcycle-gear-patrol-1440.jpg
+thumb_image: images/marvelous-sparrow.jpg
 image: images/4.jpg
 template: project
 ---

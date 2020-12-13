@@ -5,9 +5,7 @@ sections:
   - section_id: hero
     type: section_hero
     title: Auto Parts & Accessories
-    content: >-
-      This section can contain a subtitle or tagline. The recommended length is
-      one to three sentences, but can be changed as you prefer.
+    content: Parts to keep your motor running. Service that overcomes the competition.
     actions:
       - label: Let's talk
         url: /contact

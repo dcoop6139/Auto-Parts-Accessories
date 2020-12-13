@@ -40,8 +40,6 @@ sections:
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
           convallis, interdum ligula vel, pretium diam. Integer commodo sem at
           dui sollicitudin.
-      - title: ''
-        content: ''
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

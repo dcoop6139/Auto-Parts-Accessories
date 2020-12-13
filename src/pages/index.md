@@ -21,7 +21,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: 'Buy it, Fix, Hit the Road.'
+    subtitle: 'Buy, Fix, Hit the Road.'
     col_number: three
     is_numbered: true
     grid_items:

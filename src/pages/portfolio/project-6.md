@@ -2,7 +2,8 @@
 title: Project Title 6
 subtitle: Optional Project Subtitle
 date: '2018-12-18'
-thumb_image: images/6_thumb.jpg
+thumb_image: >-
+  images/1005_lrmp_03_o-vintage_car_parts_and_accessories-58_impala_headlight_fender_visor.webp
 image: images/6.jpg
 template: project
 ---

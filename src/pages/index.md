@@ -12,7 +12,7 @@ sections:
         style: button
   - section_id: latest-projects
     type: section_portfolio
-    layout_style: mosaic
+    layout_style: tiles
     title: Recent Work
     subtitle: Get right to the good parts
     projects_number: 6

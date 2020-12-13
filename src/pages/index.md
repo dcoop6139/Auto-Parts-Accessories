@@ -21,7 +21,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: Design fused with tech
+    subtitle: Design fused with technology
     col_number: two
     is_numbered: true
     grid_items:

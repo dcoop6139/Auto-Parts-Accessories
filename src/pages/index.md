@@ -21,7 +21,7 @@ sections:
   - section_id: services
     type: section_grid
     title: What We Do
-    subtitle: 'Maintain, .'
+    subtitle: Ride-maintain-.
     col_number: three
     is_numbered: true
     grid_items:

@@ -27,7 +27,7 @@ sections:
     grid_items:
       - title: Auto-Parts
         content: Auto-parts are available in wide range of brand at a convenient cost.
-      - title: Service Title
+      - title: Accessories
         content: >-
           Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
           a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,

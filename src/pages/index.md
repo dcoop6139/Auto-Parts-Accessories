@@ -29,9 +29,8 @@ sections:
         content: Auto-parts are available in wide range of brand at a convenient cost.
       - title: Accessories
         content: >-
-          Donec lobortis velit sed suscipit lobortis. Ut non quam metus. Nullam
-          a maximus mi. Quisque justo nunc, sollicitudin euismod euismod at,
-          tincidunt ut tellus.
+          Diverse collection of accessories are available according to the
+          customer day-to-day essentials.
       - title: Service Title
         content: >-
           Sed laoreet magna commodo libero euismod sodales. Nunc ac libero

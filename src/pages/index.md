@@ -33,9 +33,8 @@ sections:
           customer day-to-day essentials.
       - title: Studio
         content: >-
-          Sed laoreet magna commodo libero euismod sodales. Nunc ac libero
-          convallis, interdum ligula vel, pretium diam. Integer commodo sem at
-          dui sollicitudin.
+          Well-Experienced mechanics are here to help customers fix their
+          vehicle and excellence is gauranteed.
   - section_id: testimonials
     type: section_testimonials
     title: Testimonials

@@ -6,10 +6,7 @@ sections:
     type: section_hero
     title: Auto Parts & Accessories
     content: Parts to keep your motor running. Service that overcomes the competition.
-    actions:
-      - label: Let's talk
-        url: /contact
-        style: button
+    actions: []
   - section_id: latest-projects
     type: section_portfolio
     layout_style: mosaic

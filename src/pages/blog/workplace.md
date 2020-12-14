@@ -1,8 +1,6 @@
 ---
 title: Old parts recycling
-excerpt: >-
-  Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
-  sapien blandit ac amet faucibus aliquet placerat commodo.
+excerpt: ''
 date: '2019-03-24'
 thumb_image: images/scientific-squid.jpg
 image: images/11.jpg

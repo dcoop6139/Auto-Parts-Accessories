@@ -2,7 +2,6 @@
 title: ''
 excerpt: ''
 date: ''
-image: images/6.jpg
 template: post
 ---
 

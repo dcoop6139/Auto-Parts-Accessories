@@ -1,6 +1,6 @@
 ---
 title: Old parts recycling
-excerpt: ''
+excerpt: Old
 date: '2019-03-24'
 thumb_image: images/scientific-squid.jpg
 image: images/11.jpg

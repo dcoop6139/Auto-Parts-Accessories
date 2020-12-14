@@ -2,7 +2,7 @@
 title: ''
 subtitle: 'A interesting tale about function of design '
 excerpt: ''
-date: ''
+date: '2022-11-13'
 image: images/4.jpg
 template: post
 thumb_image: images/royal-pineapple.webp

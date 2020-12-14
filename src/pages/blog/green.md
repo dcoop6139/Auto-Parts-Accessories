@@ -5,7 +5,7 @@ excerpt: >-
   Lorem ipsum dolor sit amet, consectetur adipiscing elit, sed do eiusmod tempor
   incididunt ut labore et dolore magna aliqua. Ac ut consequat semper viverra
   nam libero justo laoreet sit.
-date: '2018-01-11'
+date: ''
 image: images/5.jpg
 template: post
 ---

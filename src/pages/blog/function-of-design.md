@@ -2,7 +2,7 @@
 title: ''
 subtitle: 'A interesting tale about function of design '
 excerpt: ''
-date: '2018-01-15'
+date: ''
 image: images/4.jpg
 template: post
 ---

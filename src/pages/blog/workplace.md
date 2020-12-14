@@ -1,7 +1,7 @@
 ---
 title: Old parts recycling
 excerpt: Done and dusted parts will be collected and recycled
-date: '2019-03-24'
+date: '2022-08-24'
 thumb_image: images/scientific-squid.jpg
 image: images/11.jpg
 template: post

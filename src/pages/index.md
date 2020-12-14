@@ -37,7 +37,7 @@ sections:
           vehicle and excellence is gauranteed.
   - section_id: latest-posts
     type: section_posts
-    title: AuFuture 1
+    title: Future 1
     subtitle: An optional subtitle of the section
     posts_number: 3
     col_number: three

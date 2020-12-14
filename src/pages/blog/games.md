@@ -1,7 +1,7 @@
 ---
 title: ''
 excerpt: ''
-date: ''
+date: '2020-07-13'
 template: post
 thumb_image: images/auto-parts-iStock-596780762.jpg
 ---

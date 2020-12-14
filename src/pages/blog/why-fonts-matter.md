@@ -1,9 +1,6 @@
 ---
 title: Engine tune-up
-excerpt: >-
-  Amet nibh adipiscing adipiscing. Commodo ante vis placerat interdum massa
-  massa primis. Tempus condimentum tempus non ac varius cubilia adipiscing
-  placerat lorem.
+excerpt: ''
 date: '2022-07-27'
 thumb_image: images/Aulitzky-BMW-M2-Tuning-S55-Motor-05.jpg
 image: images/12.jpg

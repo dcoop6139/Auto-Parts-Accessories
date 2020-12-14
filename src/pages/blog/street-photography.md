@@ -1,6 +1,6 @@
 ---
 title: Re-Modeling
-excerpt: 'old cars '
+excerpt: 'Old cars can be remodeled '
 date: '2019-03-10'
 thumb_image: images/junk_yard_classic_cars_phoenix_az_534x234.jpg
 image: images/8.jpg

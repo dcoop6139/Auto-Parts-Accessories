@@ -1,5 +1,5 @@
 ---
-title: Old parts Recycling
+title: Old parts recycling
 excerpt: >-
   Vis accumsan feugiat adipiscing nisl amet adipiscing accumsan blandit accumsan
   sapien blandit ac amet faucibus aliquet placerat commodo.

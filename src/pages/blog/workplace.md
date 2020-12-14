@@ -1,6 +1,6 @@
 ---
 title: Old parts recycling
-excerpt: 'Done an ddusted '
+excerpt: 'Done and dusted '
 date: '2019-03-24'
 thumb_image: images/scientific-squid.jpg
 image: images/11.jpg

@@ -4,7 +4,7 @@ hide_title: false
 sections:
   - title: ''
     section_id: lorem-ipsum
-    subtitle: lorem-ipsum
+    subtitle: ''
     content: >-
       Resist the urge to recruit staff that we can afford before promises are
       converted into profit.

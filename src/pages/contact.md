@@ -2,7 +2,7 @@
 title: Finance
 hide_title: false
 sections:
-  - title: lorem-ipsum
+  - title: ''
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-

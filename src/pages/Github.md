@@ -1,6 +1,6 @@
 ---
 title: GitHub
-subtitle: lorem-ipsum
+subtitle: ''
 excerpt: lorem-ipsum
 template: page
 ---

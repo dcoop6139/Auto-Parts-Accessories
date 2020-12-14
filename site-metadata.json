@@ -38,7 +38,7 @@
             },
             {
                 "label": "Github",
-                "url": "/lorem-ipsum",
+                "url": "/lorem-ipsum/",
                 "style": "link",
                 "icon_class": "lorem-ipsum",
                 "new_window": false,

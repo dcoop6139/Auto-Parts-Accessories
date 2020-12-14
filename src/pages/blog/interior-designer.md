@@ -1,10 +1,7 @@
 ---
 title: ''
 subtitle: ''
-excerpt: >-
-  Interior design is “the art or process of designing the interior, often
-  including the exterior, of a room or building”. An interior designer is
-  someone who coordinates and manages such projects.
+excerpt: ''
 date: '2020-07-10'
 template: post
 thumb_image: images/auto-parts-banner.jpg

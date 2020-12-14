@@ -11,6 +11,6 @@ subtitle: >-
   business's perspective is to comply with all the manufacturing firms for the
   supply of products to increase the productivity of the company and expand its
   chain in different locations...
-layout_style: mosaic
+layout_style: tiles
 template: portfolio
 ---

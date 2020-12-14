@@ -1,6 +1,6 @@
 ---
 title: Finance
-hide_title: true
+hide_title: false
 sections: []
 template: advanced
 excerpt: ''

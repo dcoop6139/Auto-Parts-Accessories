@@ -1,7 +1,7 @@
 ---
 title: Marketing
 subtitle: This is a short page about us and our work.
-image: images/about.jpg
+image: images/vintage-cars-wide-wallpaper_054106600_44.jpg
 template: page
 ---
 

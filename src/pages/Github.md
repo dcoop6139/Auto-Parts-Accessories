@@ -1,7 +1,7 @@
 ---
 title: GitHub
 subtitle: ''
-excerpt: lorem-ipsum
+excerpt: ''
 template: page
 ---
 ## Lorem ipsum

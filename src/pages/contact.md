@@ -6,7 +6,7 @@ sections:
     section_id: lorem-ipsum
     subtitle: lorem-ipsum
     content: >-
-      ##Resist the urge to recruit staff that we can afford before promises are
+      Resist the urge to recruit staff that we can afford before promises are
       converted into profit.
 
       We should never borrow money that is not neccessary.It always better to

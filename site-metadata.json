@@ -36,7 +36,8 @@
                 "url": "/contact/",
                 "style": "link"
             }
-        ]
+        ],
+        "logo_img": "images/auto parts logo 4.png"
     },
     "footer": {
         "content": "&copy; Stackbit-Exto. All rights reserved.",

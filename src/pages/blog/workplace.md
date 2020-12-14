@@ -1,6 +1,6 @@
 ---
 title: Old parts recycling
-excerpt: 'Done and dusted parts will be collected to recycle  '
+excerpt: 'Done and dusted parts will be collected and recycled '
 date: '2019-03-24'
 thumb_image: images/scientific-squid.jpg
 image: images/11.jpg

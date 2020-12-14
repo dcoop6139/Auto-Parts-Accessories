@@ -2,7 +2,7 @@
 title: Engine tune-up
 excerpt: >-
   Leading the way to professional racers by introducing the facilities to tune
-  up their engine 
+  up their engine for paower pack performance. 
 date: '2022-07-27'
 thumb_image: images/Aulitzky-BMW-M2-Tuning-S55-Motor-05.jpg
 image: images/12.jpg

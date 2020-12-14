@@ -1,5 +1,5 @@
 ---
-title: ''
+title: GitH
 subtitle: lorem-ipsum
 excerpt: lorem-ipsum
 template: page
